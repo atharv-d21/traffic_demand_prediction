@@ -7,7 +7,7 @@ Files Overview:
 
 Our goal is to make a ML Model and train and evaluate it using train.csv dataset and make predictions on test.csv dataset.
 
-Read README.md in the Dataset Folder to gain more insights about the columns of the dataset.
+Read PROBLEM.md to get more insight into dataset and problem statement.
 
 2. Submissions Folder: contains all the submission made read README.md in the Submissions Folder to get the scores obtained by the respective submission file.
 
